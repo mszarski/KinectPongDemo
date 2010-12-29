@@ -1,0 +1,7 @@
+KinectPongDemo is a simple 'Pong' game using the Xbox Kinect as the controller.
+It is written in C++ with OpenFrameworks and requires OpenCV, Box2D, and ofxKinect/libfreenect addons.
+
+To build, first download and install openFrameworks. Then place the files in a directory within the 'examples' directory, say 'KinectPong'.
+Ensure that ofxBox2d, ofxOpenCV, and ofxVectorMath addons are present in the openFrameworks addons directory.
+
+Thanks to the amazing work of the ofxKinect project for building a great wrapper for rapid creative coding in OF using the Kinect to make things like this possible with a minimum of ceremony.
